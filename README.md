@@ -2,6 +2,10 @@
 
 This project is a **Streamlit** [web application](https://cancer-prediction-app.streamlit.app) that predicts whether a breast mass is benign or malignant using a machine learning model. The app provides an interactive interface where users can input cell nucleus measurements and visualize the results with a radar chart.
 
+
+<img width="1662" alt="Screenshot 2025-01-20 at 2 03 42 PM" src="https://github.com/user-attachments/assets/809b75b3-306f-474b-b9d2-7c4c38f4baa4" />
+
+
 ---
 
 ## Table of Contents
